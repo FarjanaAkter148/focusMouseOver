@@ -1,0 +1,40 @@
+/* body{
+    margin: 0;
+    padding: 0;
+  height: 100vh;
+    overflow: hidden;
+    background: url(img/blur.png);
+    background-attachment: fixed;
+    cursor: none;
+    
+
+}
+#cursor{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+
+    background: url(img/full-shot-people-sitting-together_23-2148888494.jpg);
+    border-radius: 50%;
+    background-attachment: fixed ;
+} */
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+    background: url(img/blur.png);
+    background-attachment: fixed;
+    cursor: none;
+
+}
+
+#cursor {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background: url(img/full-shot-people-sitting-together_23-2148888494.jpg);
+    border-radius: 50%;
+    background-attachment: fixed;
+}
